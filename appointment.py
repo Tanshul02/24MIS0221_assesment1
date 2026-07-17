@@ -1,1 +1,1 @@
-print("Hospital Appointment Booking System.")#add
+print("Hospital Appointment Booking System")
